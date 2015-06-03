@@ -1,0 +1,47 @@
+/* 
+    Document   : estilos
+    Created on : 02-dic-2013, 9:30:23
+    Author     : miguel
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+    margin:0 0 0 0;
+    font-family: Verdana,arial,helvetica,sans-serif;
+    font-size: 12px;        
+}
+
+.renglonUno {
+    background-color: azure;
+}
+
+.renglonDos {
+    background-color: appworkspace;
+} 
+
+.reglonSel {
+    background-color: beige; 
+}
+
+.headerTable {
+    background-color: darkgray;
+    color: aliceblue;
+    text-align:center;
+    font-weight: bold;
+} 
+
+.bt {
+    background-color: appworkspace;
+    color: aliceblue;
+    font-weight: bold;
+    border: 1px solid #333;
+}
+
+a {
+    color: darkgray;
+}
+
+a:hover {
+    color: appworkspace;
+}
